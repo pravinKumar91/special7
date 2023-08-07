@@ -1,0 +1,16 @@
+.cakeTitle {
+    font-size: x-large;
+    color: black;
+ }
+
+ .cakeDesc {
+    line-height: 40px;
+    font-size: x-large;
+    color: black;
+ }
+
+ .cakeImage {
+    text-align: "center";
+    width: "100%";
+    height: "800px";
+ }
