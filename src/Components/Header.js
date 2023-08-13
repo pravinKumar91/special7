@@ -39,7 +39,7 @@ class Header extends Component {
         <div className="carousel-inner">
 
           <div className="carousel-item active">
-            <img src="/images/cakes/01.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+            <img src="/special7/images/cakes/01.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Fruit Cake</h5>
                   <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
@@ -47,7 +47,7 @@ class Header extends Component {
           </div>
 
           <div className="carousel-item">
-          <img src="/images/cakes/02.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+          <img src="/special7/images/cakes/02.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Butterscotch Cake</h5>
                 <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
@@ -55,14 +55,14 @@ class Header extends Component {
           </div>
     
           <div className="carousel-item">
-              <img src="/images/cakes/03.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+              <img src="/special7/images/cakes/03.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
               <h5 className="cakeTitle">Bisc Choco Cake</h5>
               <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
               </div>
           </div>
           <div className="carousel-item">
-          <img src="/images/cakes/05.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+          <img src="/special7/images/cakes/05.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Pineapple Cake</h5>
                 <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
@@ -70,7 +70,7 @@ class Header extends Component {
           </div>
     
           <div className="carousel-item">
-              <img src="/images/cakes/06.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+              <img src="/special7/images/cakes/06.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
               <h5 className="cakeTitle">Red Velvet Cake</h5>
               <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
@@ -78,7 +78,7 @@ class Header extends Component {
           </div>
 
           <div className="carousel-item active">
-            <img src="/images/cakes/07.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+            <img src="/special7/images/cakes/07.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Strawberry Cake</h5>
                   <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
@@ -86,7 +86,7 @@ class Header extends Component {
           </div>
 
           <div className="carousel-item">
-          <img src="/images/cakes/08.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+          <img src="/special7/images/cakes/08.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Blueberry Cake</h5>
                 <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
