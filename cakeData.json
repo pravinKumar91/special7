@@ -1,0 +1,45 @@
+{
+    "main": {
+      "name":"Rupali Wanare",
+      "image":"profilepic.jpg",
+      "bio":"I am a enthusiastic cake maker housewife who whisks her way through life with a spatula in one hand and a mixing bowl in the other. Baking has been my passion since I was a young girl, and it has grown into an all-encompassing love affair that fills my home with warmth and sweetness. As a devoted wife and mother, My kitchen is the heart of my home. It's a place where love, laughter, and the aroma of freshly baked cakes come together to create a haven of happiness. My family and friends are her most enthusiastic taste testers, and their smiles and compliments fuel my passion even more. Thank you for visiting my cake website! I hope you enjoyed exploring the delightful world of cakes and found some sweet inspiration along the way. If you have any questions or feedback, feel free to reach out. Happy baking and have a wonderful day!",
+      "contactmessage":"Please order cake here. Mention your address/contact in message box. Thank you !",
+      "email": "prawanare@gmail.com",
+      "phone": "8149941408",
+      "address":{
+        "street":"Pathak road",
+        "city":"Pune",
+        "state":"MH",
+        "zip": "411057"
+      },
+      "website": "",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"https://twitter.com/pr__kumar",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/pravinkumar-w-4b283821/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/p_r_kumar/",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/pravinKumar91/",
+          "className":"fa fa-github"
+        }
+      ]
+    }
+  }
+  
