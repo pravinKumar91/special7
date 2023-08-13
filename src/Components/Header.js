@@ -39,7 +39,7 @@ class Header extends Component {
         <div className="carousel-inner">
 
           <div className="carousel-item active">
-            <img src="/images/cakes/01.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+            <img src="images/cakes/01.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Fruit Cake</h5>
                   <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
@@ -47,7 +47,7 @@ class Header extends Component {
           </div>
 
           <div className="carousel-item">
-          <img src="/images/cakes/02.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
+          <img src="images/cakes/02.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
                 <h5 className="cakeTitle">Butterscotch Cake</h5>
                 <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
