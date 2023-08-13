@@ -1,14 +1,11 @@
 {
     "main": {
-      "name":"Pravinkumar Wanare",
-      "description":"I am a Technical Lead at HCL Technologies Ltd. I use Java, Springboot, React, Apache NiFi to develop microservices and web pages. This project is nothing but my resume in matrix theme.",
+      "name":"Rupali Wanare",
       "image":"profilepic.jpg",
       "bio":"I am a enthusiastic cake maker housewife who whisks her way through life with a spatula in one hand and a mixing bowl in the other. Baking has been my passion since I was a young girl, and it has grown into an all-encompassing love affair that fills my home with warmth and sweetness. As a devoted wife and mother, My kitchen is the heart of my home. It's a place where love, laughter, and the aroma of freshly baked cakes come together to create a haven of happiness. My family and friends are her most enthusiastic taste testers, and their smiles and compliments fuel my passion even more. Thank you for visiting my cake website! I hope you enjoyed exploring the delightful world of cakes and found some sweet inspiration along the way. If you have any questions or feedback, feel free to reach out. Happy baking and have a wonderful day!",
       "contactmessage":"Please order cake here. Mention your address/contact in message box. Thank you !",
       "email": "prawanare@gmail.com",
       "phone": "8149941408",
-      "github":"https://github.com/pravinKumar91",
-      "project":"https://github.com/pravinKumar91/react-resume",
       "address":{
         "street":"Pathak road",
         "city":"Pune",
@@ -16,7 +13,6 @@
         "zip": "411057"
       },
       "website": "",
-      "resumedownload":"./data/resume.pdf",
       "social":[
         {
           "name":"facebook",
@@ -42,95 +38,6 @@
           "name":"github",
           "url":"https://github.com/pravinKumar91/react-resume",
           "className":"fa fa-github"
-        }
-      ]
-    },
-    "resume":{
-      "skillmessage":"",
-      "education":[
-        {
-          "school":"Vishwakarma Institute Of Information Technology, Pune",
-          "degree":"Bachelor Degree in Computer Engineering",
-          "graduated":"June 2013 from University Of Pune",
-          "description":"I learned different languages here also like Advanced Java, SQL, CUDA C, FORTAIN, software design process and sotware testing. I also done project of CUDA C sponsored by TIFR."
-        },
-        {
-          "school":"Diploma in Computer Engineering",
-          "degree":"Bachelor Degree in Computer Engineering from University Of Pune",
-          "graduated":"June 2010 from MSBTE",
-          "description":"I learned different languages here like C, C++, Core Java, Software development process and sotware testing. I also done lots of mini projects here."
-        }
-      ],
-      "work":[
-        {
-          "company":"HCL Technologies Ltd.",
-          "title":"Technical Lead",
-          "years":"February 2022 - Present",
-          "description":"Understand the requirement and develop the assigned module. Creating design and identifying the feasibility. Code reviews, validations, promotions, integration, builds, deployment and documentation. Providing support to QA and BA team. Projects like Assentis Upgrade, Dialogue Migration, Template Tex etc. I used techologies as Java, JavaScript, Apache NiFi, SQL, Lua, ConTeXt, Kotlin and framework like SpringBoot"
-        },
-        {
-          "company":"Dassault Systemes Pvt. Ltd.",
-          "title":"Software Development Specialist",
-          "years":"January 2014 - February 2022",
-          "description":"Understand the business requirement and develop the assigned module. Creating POC and identifying the feasibility. Code reviews, validations, promotions, integration, builds and deployments. Providing production support as Data L3. Projects like Proctor Squared, EXALEAD Cloud View, University. Best Idea in Ideathon (Event at Dassault Systems). I used techologies as Java, REST web services, JavaScript, SQL, MQL, ENOVIA and framework like SpringBoot" 
-        }
-      ],
-      "skills":[
-        {
-          "name":"Java",
-          "level":"70%"
-        },
-        {
-          "name":"SpringBoot",
-          "level":"65%"
-        },
-        {
-          "name":"SQL",
-          "level":"70%"
-        },
-        {
-          "name":"Apache NiFi",
-          "level":"60%"
-        },
-        {
-          "name":"Kotlin",
-          "level":"50%"
-        },
-        {
-          "name":"ReactJs",
-          "level":"50%"
-        },
-        {
-          "name":"CSS",
-          "level":"60%"
-        }
-      ]
-    },
-    "portfolio":{
-      "projects": [
-        {
-          "title":"Abstract",
-          "category":"Abstract",
-          "image":"03.jpg",
-          "url":""
-        },
-        {
-          "title":"Abstract",
-          "category":"Abstract",
-          "image":"04.jpg",
-          "url":""
-        },
-        {
-          "title":"Abstract",
-          "category":"Abstract",
-          "image":"09.jpg",
-          "url":""
-        },
-        {
-          "title":"Abstract",
-          "category":"Abstract",
-          "image":"10.jpg",
-          "url":""
         }
       ]
     }

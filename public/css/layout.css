@@ -226,6 +226,27 @@ ul#nav li.current a { color: #fe6928; }
    font-size: 20px;
 }
 
+/* scrolldown link */
+#about .scrolldown a {
+   bottom: 30px;
+   left: 50%;
+   margin-left: 922px;
+   color: #fff;
+   display: block;
+   height: 42px;
+   width: 42px;
+   font-size: 42px;
+   line-height: 42px;
+   color: #fff;
+   border-radius: 100%;
+
+   -webkit-transition: all .3s ease-in-out;
+   -moz-transition: all .3s ease-in-out;
+   -o-transition: all .3s ease-in-out;
+   transition: all .3s ease-in-out;
+}
+#about .scrolldown a:hover { color: #0762f9; }
+
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -796,6 +817,8 @@ call-to-action .button {
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
+
+
 
 #contact a, #contact a:visited  { color: #0762f9; }
 #contact a:hover, #contact a:focus { color: #fff; }

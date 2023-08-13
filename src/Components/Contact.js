@@ -85,7 +85,7 @@ class Contact extends Component {
 
         <div className="row">
           <Slide left duration={1000}>
-            <div className="ten columns">
+            <div className="eight columns">
               <form action="" id="contactForm" name="contactForm" onSubmit={this.handleSubmit}>
                 <fieldset>
                   <div>
@@ -151,6 +151,22 @@ class Contact extends Component {
                 </fieldset>
               </form>
             </div>
+          </Slide>
+
+          <Slide right duration={1000}>
+            <aside className="four columns footer-widgets">
+              <div className="widget widget_contact">
+                <h4>Address and Phone</h4>
+                <p className="address">
+                  {name}
+                  <br />
+                  {street} <br />
+                  {city}, {state} {zip}
+                  <br />
+                  <span>{phone}</span>
+                </p>
+              </div>
+            </aside>
           </Slide>
         </div>
       </section>
