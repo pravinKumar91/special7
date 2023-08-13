@@ -61,15 +61,6 @@ class Header extends Component {
               <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
               </div>
           </div>
-
-          <div className="carousel-item active">
-            <img src="/images/cakes/04.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
-              <div className="carousel-caption d-none d-md-block">
-                <h5 className="cakeTitle">Choco Caramel Cake</h5>
-                  <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
-              </div>
-          </div>
-
           <div className="carousel-item">
           <img src="/images/cakes/05.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
               <div className="carousel-caption d-none d-md-block">
@@ -101,14 +92,6 @@ class Header extends Component {
                 <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
               </div>
           </div>
-    
-          <div className="carousel-item">
-              <img src="/images/cakes/09.jpg" style={{textAlign : "center", width :"50%", height: "760px"}} alt="..."/>
-              <div className="carousel-caption d-none d-md-block">
-              <h5 className="cakeTitle">Mixed Berry Cake</h5>
-              <p className="cakeDesc">From Rs. 400.00 - Rs. 800.00</p>
-              </div>
-          </div>
          </div>
          <div className="carousel-indicators" style={{bottom:"-420px"}}>
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -118,8 +101,6 @@ class Header extends Component {
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
          </div>
         </div>
         </div>
